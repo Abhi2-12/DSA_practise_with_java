@@ -1,5 +1,5 @@
 package Arrays;
-import java.util.Arrays;
+// java.util.Arrays;
 public class Areray_Sum{
 
     public static void main(String args[]){

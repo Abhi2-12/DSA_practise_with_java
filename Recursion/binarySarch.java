@@ -10,6 +10,7 @@ public class binarySarch {
             if(arr[mid] == x)
             return mid;
 
+            //if eklement smaller than mid ,then it olny present in mid 
             if(arr[mid] > x)
             return binarySarchRecursive(arr, low, mid - 1, x);
 
